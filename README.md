@@ -15,6 +15,7 @@
 ---
 
 ## 🧠 What I Focus On
+- Frontend Engineering
 - Backend Engineering
 - Cloud & DevOps
 - Distributed Systems
